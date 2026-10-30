@@ -2,7 +2,7 @@
 
 **Repository Name:** `miniscope-c`
 
-**GitHub Description:**
+**GitHub Description:** 
 
 A lightweight Linux system monitor built in C for live CPU, RAM, and process monitoring.
 
