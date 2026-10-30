@@ -10,6 +10,6 @@ $(TARGET): src/miniscope.c
 
 test: $(TARGET)
 	bash tests/smoke.sh
-
+ 
 clean:
 	rm -f $(TARGET)
