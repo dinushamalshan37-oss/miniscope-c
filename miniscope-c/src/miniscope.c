@@ -18,7 +18,7 @@ typedef struct {
     int pid;
     char name[COMM_LEN];
     unsigned long long ticks;
-    long rss_kib;
+    long rss_kib; 
     double cpu_percent;
 } Process;
 
