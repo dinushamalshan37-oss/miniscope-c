@@ -14,7 +14,7 @@
 #define MAX_PROCS 8192
 #define COMM_LEN 80
 
-typedef struct {
+typedef struct  {
     int pid;
     char name[COMM_LEN];
     unsigned long long ticks;
